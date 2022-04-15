@@ -53,7 +53,7 @@ There will be a Sailfin toolhead for CroXY soon.
 
 # MODS
 
-[Kayos Maker Mods with some changes for better fitting on Mini-AB](https://github.com/KayosMaker/Sailfin-Extruder)
+[Kayos Maker Mods with some changes for better fitting on Mini-AS](https://github.com/KayosMaker/Sailfin-Extruder)
 
-He also is working on a "Sharkfin" mod.  Poke around his git to find it.
+Sharkfin is a modded Sailfin.  It is altered to better fit on both Mini After Sherpa and Mantis toolheads.  The motor rides slightly higher than stock Sailfin, but at the same angle. Also included is a mount for the pancake pcb that works with Sailfin and Sharkfin.
 
