@@ -1,3 +1,5 @@
+# This is a fork.  The only files here that will differ from the main repository are in my usermod folder.  Visit the main repo for the most up to date "vanilla" files.  
+
 # Sailfin-Extruder
 A lightweight compact extruder with 5:1 gearing using BMG dual drive.   It is capable of pushing up to 48mm^3/s through a 0.4 nozzle.
 
@@ -54,6 +56,11 @@ There will be a Sailfin toolhead for CroXY soon.
 # MODS
 
 [Kayos Maker Mods with some changes for better fitting on Mini-AS](https://github.com/KayosMaker/Sailfin-Extruder)
+[Sharkfin](
+Sharkfin is a slightly reimagined Sailfin.  These mods were more to satisfy my own neurosis, than actually being strictly necessary.  My goals were as follows: 
+-alter the motor location so that a spacer isn't needed to mount the extruder on Mantis
+-move the motor enough so that the extruder mounting screw and lower motor mounting screw do not interfere with each other
+-lengthen tension arm slightly so it's actually possible to move it with your thumb while its mounted in the tight space on Mantis
+-add 3rd screw to front piece, so both the tension arm pivot and the driven gear are supported on both sides
 
-Sharkfin is a modded Sailfin.  It is altered to better fit on both Mini After Sherpa and Mantis toolheads.  The motor rides slightly higher than stock Sailfin, but at the same angle. Also included is a mount for the pancake pcb that works with Sailfin and Sharkfin.
-
+Sailfin for Voron heat inserts is just that.  It's a very minorly finessed stock Sailfin with holes altered to fit our standard heatsert in Voron land.  I like to debadge things so I also did that while I was at it.  
