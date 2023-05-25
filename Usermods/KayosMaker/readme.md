@@ -8,6 +8,7 @@ Sharkfin is a slightly reimagined Sailfin.  These mods were more to satisfy my o
 * lengthen tension arm slightly so it's actually possible to move it with your thumb while its mounted in the tight space on Mantis
 * add 3rd screw to front piece, so both the tension arm pivot and the driven gear are supported on both sides
 * maintain sailfin motor mounting angle, so pcb mounting brackets made for sailfin work on sharkfin as well
+* NEW: Bondtech RIDGA support.  cad and stls in the sharkfin folders
 
 [Sailfin for Voron Heat Inserts](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sailfin_for_Voron_heat_inserts)
 
