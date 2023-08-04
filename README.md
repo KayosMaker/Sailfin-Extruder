@@ -1,4 +1,4 @@
-# This fork and is no longer maintained.  I leave it for anyone wanting sailfin for voron heatserts or old sharkfin.  [Sharkfin is updated and now has it's own repo.](https://github.com/KayosMaker/Sharkfin_Extruder)
+# This fork is no longer maintained.  I leave it for anyone wanting sailfin for voron heatserts or old sharkfin.  [Sharkfin is updated and now has it's own repo.](https://github.com/KayosMaker/Sharkfin_Extruder)
 # For Sailfin, visit the home repo.
 
 # Sailfin-Extruder
