@@ -1,4 +1,5 @@
-# This is a fork.  The only files here that will differ from the main repository are in my usermod folder.  Visit the main repo for the most up to date "vanilla" files.  
+# This fork and is no longer maintained.  I leave it for anyone wanting sailfin for voron heatserts or old sharkfin.  [Sharkfin is updated and now has it's own repo.](https://github.com/KayosMaker/Sharkfin_Extruder)
+# For Sailfin, visit the home repo.
 
 # Sailfin-Extruder
 A lightweight compact extruder with 5:1 gearing using BMG dual drive.   It is capable of pushing up to 48mm^3/s through a 0.4 nozzle.
@@ -54,6 +55,8 @@ There will be a Sailfin toolhead for CroXY soon.
 [Nice V0 toolhead that supports Sailfin](https://github.com/KurioHonoo/Mini-AfterSherpa/)
 
 # MODS
+
+[Sharkfin now has it's own repo.](https://github.com/KayosMaker/Sharkfin_Extruder)
 
 [Sharkfin](https://github.com/KayosMaker/Sailfin-Extruder/tree/main/Usermods/KayosMaker/Sharkfin)
 
